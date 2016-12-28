@@ -1,7 +1,2 @@
-*.storyboard
-*.pdf
-*.json
-*.plist
-.xcodeproj
-*.xcassets
-*.Iproj
+*.*
+!*.swift
